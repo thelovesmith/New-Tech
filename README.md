@@ -5,6 +5,7 @@ Tech To Keep In Mind
 + react-icons
 + reactstrap
 + gatsby-image
++ react-reveal
 
 ### Other Tech
 + Algoria 
