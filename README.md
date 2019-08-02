@@ -6,6 +6,7 @@ Tech To Keep In Mind
 + reactstrap
 + gatsby-image
 + react-reveal
++ antd (antdesign)
 
 ### Other Tech
 + Algoria 
