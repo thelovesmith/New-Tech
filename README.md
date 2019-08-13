@@ -8,7 +8,11 @@ Tech To Keep In Mind
 + react-reveal
 + antd (antdesign)
 
-### Other Tech
+###
++ gatsby-plugin-google-analytics
+
+#### Other Tech
 + Algoria 
 + ngrok (for unit testing)
+
 
