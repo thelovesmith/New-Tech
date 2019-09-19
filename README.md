@@ -7,6 +7,7 @@ Tech To Keep In Mind
 + gatsby-image
 + react-reveal
 + antd (antdesign)
++ react-modal
 
 ###
 + gatsby-plugin-google-analytics
@@ -15,4 +16,7 @@ Tech To Keep In Mind
 + Algoria 
 + ngrok (for unit testing)
 
+##### React Tech 
++ React Hooks
+  - 
 
