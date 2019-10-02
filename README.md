@@ -9,21 +9,23 @@ Tech To Keep In Mind
 + antd (antdesign)
 + react-modal
 
-### Gatsby Plugins
+## Gatsby Plugins
 + gatsby-plugin-google-analytics
 
-#### Other Tech
+## Other Tech
 + Algoria 
 + ngrok (for unit testing)
 
-##### React Tech 
+## React Tech 
 + React Hooks
 + react-codemod
 
-###### Web Design Tools 
+## Web Design Tools 
 + [Site Inspire][1]
 
-
+## VSCode Extensions
++ Code Runner
++ VSCode-icons 
 
 
 
