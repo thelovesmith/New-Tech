@@ -28,10 +28,12 @@ Tech To Keep In Mind
 + Code Runner
 + VSCode-icons 
 
-
+## Exercises & Training 
++ [CSS Diner][3]
 
 
 
 
 [1]: https://www.siteinspire.com
 [2]: https://github.com/brillout/awesome-react-components
+[3]: https://flukeout.github.io
