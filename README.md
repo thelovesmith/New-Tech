@@ -1,5 +1,5 @@
 # New-Tech
-Tech To Keep In Mind
+Tech To Keep In Mind for teh Future
 
 ## Node Modules 
 + react-icons
@@ -34,6 +34,8 @@ Tech To Keep In Mind
 ## Testing
 + [ngrok][4]
 
+## Cloud Services
++ [Cloudflare][5]
 
 
 
@@ -41,3 +43,4 @@ Tech To Keep In Mind
 [2]: https://github.com/brillout/awesome-react-components
 [3]: https://flukeout.github.io
 [4]: https://ngrok.com
+[5]: https://support.cloudflare.com/hc/en-us/articles/205177068-How-does-Cloudflare-work-
