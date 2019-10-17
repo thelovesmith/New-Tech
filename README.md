@@ -12,8 +12,7 @@ Tech To Keep In Mind for teh Future
 ## Gatsby Plugins
 + gatsby-plugin-google-analytics
 
-## Other Tech
-+ Algoria 
+## Testing
 + ngrok (for unit testing)
 
 ## React Tech 
@@ -34,9 +33,10 @@ Tech To Keep In Mind for teh Future
 ## Testing
 + [ngrok][4]
 
-## Cloud Services
+## Cloud Services & APIs
 + [Cloudflare][5]
-
++ Algoria 
++ [Highcharts][6]
 
 
 [1]: https://www.siteinspire.com
@@ -44,3 +44,4 @@ Tech To Keep In Mind for teh Future
 [3]: https://flukeout.github.io
 [4]: https://ngrok.com
 [5]: https://support.cloudflare.com/hc/en-us/articles/205177068-How-does-Cloudflare-work-
+[6]: https://www.highcharts.com/
