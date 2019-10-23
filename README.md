@@ -37,6 +37,7 @@ Tech To Keep In Mind for teh Future
 + [Cloudflare][5]
 + Algoria 
 + [Highcharts][6]
++ [React Google Charts][7]
 
 
 [1]: https://www.siteinspire.com
@@ -45,3 +46,4 @@ Tech To Keep In Mind for teh Future
 [4]: https://ngrok.com
 [5]: https://support.cloudflare.com/hc/en-us/articles/205177068-How-does-Cloudflare-work-
 [6]: https://www.highcharts.com/
+[7]: https://react-google-charts.com/
