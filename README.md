@@ -23,6 +23,9 @@ Tech To Keep In Mind for teh Future
 ## Web Design Tools 
 + [Site Inspire][1]
 
+## Styling/CSS/SASS
++ [CSS Animations][8]
+
 ## VSCode Extensions
 + Code Runner
 + VSCode-icons 
@@ -47,3 +50,4 @@ Tech To Keep In Mind for teh Future
 [5]: https://support.cloudflare.com/hc/en-us/articles/205177068-How-does-Cloudflare-work-
 [6]: https://www.highcharts.com/
 [7]: https://react-google-charts.com/
+[8]: https://codepen.io/Kseso/pen/bfzjC
