@@ -1,13 +1,14 @@
 # New-Tech
 Tech To Keep In Mind for teh Future
 
-## Node Modules 
+## Node Modules / Packages 
 + react-icons
 + reactstrap
 + gatsby-image
 + react-reveal
 + antd (antdesign)
 + react-modal
++ [React-Pose][9]
 
 ## Gatsby Plugins
 + gatsby-plugin-google-analytics
@@ -51,3 +52,4 @@ Tech To Keep In Mind for teh Future
 [6]: https://www.highcharts.com/
 [7]: https://react-google-charts.com/
 [8]: https://codepen.io/Kseso/pen/bfzjC
+[9]: https://popmotion.io/pose/learn/install/
