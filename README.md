@@ -8,6 +8,7 @@ Tech To Keep In Mind for teh Future
 + react-reveal
 + antd (antdesign)
 + react-modal
++ react-animated-number
 + [React-Pose][9]
 
 ## Gatsby Plugins
