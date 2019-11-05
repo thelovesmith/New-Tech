@@ -44,6 +44,10 @@ Tech To Keep In Mind for teh Future
 + [React Google Charts][7]
 
 
+## Terminal/Shell
++ [Apple Replaces Bash][10]
++ [Zsh Terminal Setup][11]
+
 [1]: https://www.siteinspire.com
 [2]: https://github.com/brillout/awesome-react-components
 [3]: https://flukeout.github.io
@@ -53,3 +57,5 @@ Tech To Keep In Mind for teh Future
 [7]: https://react-google-charts.com/
 [8]: https://codepen.io/Kseso/pen/bfzjC
 [9]: https://popmotion.io/pose/learn/install/
+[10]: https://www.theverge.com/2019/6/4/18651872/apple-macos-catalina-zsh-bash-shell-replacement-features
+[11]: https://dev.to/aspittel/my-terminal-setup-iterm2--zsh--30lm
