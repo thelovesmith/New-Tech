@@ -10,6 +10,7 @@ Tech To Keep In Mind for teh Future
 + react-modal
 + react-animated-number
 + [React-Pose][9]
++ [react-share][12]
 
 ## Gatsby Plugins
 + gatsby-plugin-google-analytics
@@ -60,3 +61,4 @@ Tech To Keep In Mind for teh Future
 [9]: https://popmotion.io/pose/learn/install/
 [10]: https://www.theverge.com/2019/6/4/18651872/apple-macos-catalina-zsh-bash-shell-replacement-features
 [11]: https://dev.to/aspittel/my-terminal-setup-iterm2--zsh--30lm
+[12]: https://github.com/nygardk/react-share
