@@ -74,6 +74,10 @@ Tech To Keep In Mind for teh Future
 
 - [GraphQL, Neo4j, Cloud Run][17]
 
+## Deployment
+
+- [Zeit Now Node.js Deployment][18]
+
 <!--! Links -->
 
 [1]: https://www.siteinspire.com
@@ -99,3 +103,7 @@ Tech To Keep In Mind for teh Future
 <!-- GraphQL -->
 
 [17]: https://medium.com/google-cloud/secure-graphql-apis-in-minutes-with-google-cloud-run-and-grand-stack-97d050dbc744
+
+<!-- Deployment -->
+
+[18]: https://zeit.co/
