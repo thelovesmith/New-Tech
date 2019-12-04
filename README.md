@@ -27,6 +27,7 @@ Tech To Keep In Mind for teh Future
 - React Hooks
 - react-codemod
 - [Awesome React Components and Libraries][2]
+- [Easy to understand React Hook recipes][19]
 
 ## Web Design Tools
 
@@ -107,3 +108,4 @@ Tech To Keep In Mind for teh Future
 <!-- Deployment -->
 
 [18]: https://zeit.co/
+[19]: https://usehooks.com/
