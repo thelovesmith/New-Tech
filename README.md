@@ -36,6 +36,7 @@ Tech To Keep In Mind for teh Future
 ## Styling/CSS/SASS
 
 - [CSS Animations][8]
+- [Font Pairing Ideas][21]
 
 ## VSCode Extensions/Configuration
 
@@ -110,3 +111,7 @@ Tech To Keep In Mind for teh Future
 [18]: https://zeit.co/
 [19]: https://usehooks.com/
 [20]: https://ngrok.com/
+
+<!-- Font Ideas -->
+
+[21]: https://fontpair.co/
