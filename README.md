@@ -80,6 +80,10 @@ Tech To Keep In Mind for teh Future
 
 - [Zeit Now Node.js Deployment][18]
 
+## Miscellaneous
+
+- [Privnote: Private Shareable Notes that self-destruct][22]
+
 <!--! Links -->
 
 [1]: https://www.siteinspire.com
@@ -115,3 +119,7 @@ Tech To Keep In Mind for teh Future
 <!-- Font Ideas -->
 
 [21]: https://fontpair.co/
+
+<!-- miscellaneous -->
+
+[22]: https://privnote.com/
