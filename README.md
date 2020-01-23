@@ -52,6 +52,7 @@ Tech To Keep In Mind for teh Future
 ## Testing
 
 - [ngrok][4]
+-
 
 ## Cloud Services & APIs
 
@@ -84,6 +85,7 @@ Tech To Keep In Mind for teh Future
 ## Miscellaneous
 
 - [Privnote: Private Shareable Notes that self-destruct][22]
+- [Hack This Site Penetration Testing][24]
 
 <!--! Links -->
 
@@ -125,3 +127,4 @@ Tech To Keep In Mind for teh Future
 
 [22]: https://privnote.com/
 [23]: https://ui8.net/
+[24]: https://www.hackthissite.org/
