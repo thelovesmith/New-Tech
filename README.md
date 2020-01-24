@@ -87,6 +87,11 @@ Tech To Keep In Mind for teh Future
 - [Privnote: Private Shareable Notes that self-destruct][22]
 - [Hack This Site Penetration Testing][24]
 
+- ## Business Tips
+
+- [Invisible ROI][25]
+- [The Future of Marketing][26]
+
 <!--! Links -->
 
 [1]: https://www.siteinspire.com
@@ -128,3 +133,8 @@ Tech To Keep In Mind for teh Future
 [22]: https://privnote.com/
 [23]: https://ui8.net/
 [24]: https://www.hackthissite.org/
+
+<!-- Business -->
+
+[25]: https://www.entrepreneur.com/article/309727
+[26]: https://www.entrepreneur.com/article/302144
