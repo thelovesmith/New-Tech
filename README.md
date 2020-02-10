@@ -63,6 +63,7 @@ Tech To Keep In Mind for teh Future
 - [React Google Charts][7]
 - Apollo Client
 - Google Cloud Run
+- [Buttondown Newsletter][28]
 
 ## Terminal/Shell
 
@@ -143,3 +144,8 @@ Tech To Keep In Mind for teh Future
 <!-- Gatsby -->
 
 [27]: https://theleakycauldronblog.com/blog/problems-with-gatsby-image-and-their-workarounds/
+
+ <!-- 
+  -->
+
+[28]: https://buttondown.email/
