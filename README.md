@@ -14,9 +14,10 @@ Tech To Keep In Mind for teh Future
 - [React-Pose][9]
 - [react-share][12]
 
-## Gatsby Plugins
+## Gatsby Plugins/ Troubleshooting
 
 - gatsby-plugin-google-analytics
+- [Gatsby-Image errors][27]
 
 ## Testing
 
@@ -138,3 +139,7 @@ Tech To Keep In Mind for teh Future
 
 [25]: https://www.entrepreneur.com/article/309727
 [26]: https://www.entrepreneur.com/article/302144
+
+<!-- Gatsby -->
+
+[27]: https://theleakycauldronblog.com/blog/problems-with-gatsby-image-and-their-workarounds/
