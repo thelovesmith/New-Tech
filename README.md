@@ -84,6 +84,8 @@ Tech To Keep In Mind for teh Future
 
 - [Zeit Now Node.js Deployment][18]
 
+- [Using NEtlify for a sign up widget and newsletter][29]
+
 ## Miscellaneous
 
 - [Privnote: Private Shareable Notes that self-destruct][22]
@@ -135,6 +137,7 @@ Tech To Keep In Mind for teh Future
 [22]: https://privnote.com/
 [23]: https://ui8.net/
 [24]: https://www.hackthissite.org/
+[29]: https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget/
 
 <!-- Business -->
 
