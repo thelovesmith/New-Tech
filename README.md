@@ -49,6 +49,7 @@ Tech To Keep In Mind for teh Future
 ## Exercises & Training
 
 - [CSS Diner][3]
+- [Great Project Ideas for Coding Practice][30]
 
 ## Testing
 
@@ -90,7 +91,7 @@ Tech To Keep In Mind for teh Future
 
 - [Privnote: Private Shareable Notes that self-destruct][22]
 - [Hack This Site Penetration Testing][24]
-
+- [10 THings that destroy Dev Productivity][31]
 - ## Business Tips
 
 - [Invisible ROI][25]
@@ -138,6 +139,7 @@ Tech To Keep In Mind for teh Future
 [23]: https://ui8.net/
 [24]: https://www.hackthissite.org/
 [29]: https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget/
+[31]: https://medium.com/hackernoon/top-12-things-that-destroy-developer-productivity-2ddf0abc190
 
 <!-- Business -->
 
@@ -152,3 +154,4 @@ Tech To Keep In Mind for teh Future
   -->
 
 [28]: https://buttondown.email/
+[30]: https://medium.com/better-programming/heres-a-list-of-app-ideas-you-could-start-coding-today-b5f33f94a42e
