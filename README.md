@@ -84,7 +84,6 @@ Tech To Keep In Mind for teh Future
 ## Deployment
 
 - [Zeit Now Node.js Deployment][18]
-
 - [Using NEtlify for a sign up widget and newsletter][29]
 
 ## Miscellaneous
@@ -92,10 +91,13 @@ Tech To Keep In Mind for teh Future
 - [Privnote: Private Shareable Notes that self-destruct][22]
 - [Hack This Site Penetration Testing][24]
 - [10 THings that destroy Dev Productivity][31]
-- ## Business Tips
+- [Github Emoji API ][32]
+- [Github Emoji Example][33]
 
-- [Invisible ROI][25]
-- [The Future of Marketing][26]
+* ## Business Tips
+
+* [Invisible ROI][25]
+* [The Future of Marketing][26]
 
 <!--! Links -->
 
@@ -140,6 +142,8 @@ Tech To Keep In Mind for teh Future
 [24]: https://www.hackthissite.org/
 [29]: https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget/
 [31]: https://medium.com/hackernoon/top-12-things-that-destroy-developer-productivity-2ddf0abc190
+[32]: https://api.github.com/emojis
+[33]: https://github-emoji-list.herokuapp.com/
 
 <!-- Business -->
 
