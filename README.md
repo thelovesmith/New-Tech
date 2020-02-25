@@ -18,6 +18,7 @@ Tech To Keep In Mind for teh Future
 
 - gatsby-plugin-google-analytics
 - [Gatsby-Image errors][27]
+- [Gatsby Docs/Recipes][34]
 
 ## Testing
 
@@ -159,3 +160,7 @@ Tech To Keep In Mind for teh Future
 
 [28]: https://buttondown.email/
 [30]: https://medium.com/better-programming/heres-a-list-of-app-ideas-you-could-start-coding-today-b5f33f94a42e
+
+<!-- Gatsby -->
+
+[34]: https://github.com/gatsbyjs/gatsby/tree/master/docs/docs
