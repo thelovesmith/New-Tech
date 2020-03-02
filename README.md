@@ -71,6 +71,7 @@ Tech To Keep In Mind for teh Future
 
 - [Apple Replaces Bash][10]
 - [Zsh Terminal Setup][11]
+- [10 Terminal Commands You Should Know][35]
 
 ## Flutter
 
@@ -111,10 +112,14 @@ Tech To Keep In Mind for teh Future
 [7]: https://react-google-charts.com/
 [8]: https://codepen.io/Kseso/pen/bfzjC
 [9]: https://popmotion.io/pose/learn/install/
+
+<!-- Terminal/Command Line -->
+
 [10]: https://www.theverge.com/2019/6/4/18651872/apple-macos-catalina-zsh-bash-shell-replacement-features
 [11]: https://dev.to/aspittel/my-terminal-setup-iterm2--zsh--30lm
 [12]: https://github.com/nygardk/react-share
 [13]: https://glebbahmutov.com/blog/configure-prettier-in-vscode/#integrate-eslint-in-vscode
+[35]: https://medium.com/better-programming/here-are-11-console-commands-every-developer-should-know-54e348ef22fa
 
 <!-- Flutter Stuff Below -->
 
