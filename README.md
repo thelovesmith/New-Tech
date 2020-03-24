@@ -72,6 +72,7 @@ Tech To Keep In Mind for teh Future
 - [Apple Replaces Bash][10]
 - [Zsh Terminal Setup][11]
 - [10 Terminal Commands You Should Know][35]
+- [Must Need Terminal Commands][36]
 
 ## Flutter
 
@@ -120,7 +121,7 @@ Tech To Keep In Mind for teh Future
 [12]: https://github.com/nygardk/react-share
 [13]: https://glebbahmutov.com/blog/configure-prettier-in-vscode/#integrate-eslint-in-vscode
 [35]: https://medium.com/better-programming/here-are-11-console-commands-every-developer-should-know-54e348ef22fa
-
+[36]: https://medium.com/better-programming/advanced-cli-commands-you-should-know-as-a-developer-7bc48c752a5e
 <!-- Flutter Stuff Below -->
 
 [14]: https://medium.com/flutter-community/graphql-with-flutter-d974abcd2ccc
