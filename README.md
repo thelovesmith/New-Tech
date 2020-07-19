@@ -46,6 +46,7 @@ Tech To Keep In Mind for teh Future
 - Code Runner
 - VSCode-icons
 - [Prettier in VSCode][13]
+- [14 Must have extensions for Frontend][37]
 
 ## Exercises & Training
 
@@ -119,9 +120,9 @@ Tech To Keep In Mind for teh Future
 [10]: https://www.theverge.com/2019/6/4/18651872/apple-macos-catalina-zsh-bash-shell-replacement-features
 [11]: https://dev.to/aspittel/my-terminal-setup-iterm2--zsh--30lm
 [12]: https://github.com/nygardk/react-share
-[13]: https://glebbahmutov.com/blog/configure-prettier-in-vscode/#integrate-eslint-in-vscode
 [35]: https://medium.com/better-programming/here-are-11-console-commands-every-developer-should-know-54e348ef22fa
 [36]: https://medium.com/better-programming/advanced-cli-commands-you-should-know-as-a-developer-7bc48c752a5e
+
 <!-- Flutter Stuff Below -->
 
 [14]: https://medium.com/flutter-community/graphql-with-flutter-d974abcd2ccc
@@ -170,3 +171,8 @@ Tech To Keep In Mind for teh Future
 <!-- Gatsby -->
 
 [34]: https://github.com/gatsbyjs/gatsby/tree/master/docs/docs
+
+<!-- VS Code Extensions  -->
+
+[13]: https://glebbahmutov.com/blog/configure-prettier-in-vscode/#integrate-eslint-in-vscode
+[37]: https://revelry.co/vs-code-extensions/
