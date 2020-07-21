@@ -46,7 +46,7 @@ Tech To Keep In Mind for teh Future
 - Code Runner
 - VSCode-icons
 - [Prettier in VSCode][13]
-- [14 Must have extensions for Frontend][37]
+- [13 Must have extensions for Frontend][37]
 
 ## Exercises & Training
 
