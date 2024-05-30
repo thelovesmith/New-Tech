@@ -23,6 +23,7 @@ Tech To Keep In Mind for teh Future
 ## Testing
 
 - ngrok (for unit testing)
+- [BrowserStack][38]
 
 ## React Tech
 
@@ -176,3 +177,4 @@ Tech To Keep In Mind for teh Future
 
 [13]: https://glebbahmutov.com/blog/configure-prettier-in-vscode/#integrate-eslint-in-vscode
 [37]: https://revelry.co/vs-code-extensions/
+[38]: https://www.browserstack.com/
